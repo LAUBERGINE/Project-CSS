@@ -1,0 +1,154 @@
+
+/*Text Colors*/
+
+/*Principal Colors*/
+#text_color_red{
+  color: #fc0606;
+}
+#text_color_blue{
+  color: #328bff;
+}
+#text_color_green{
+  color: #1dcf34;
+}
+#text_color_yellow{
+  color: #ffff00;
+}
+#text_color_orange{
+  color: #ff7112;
+}
+#text_color_purple{
+  color: #8201d8;
+}
+#text_color_pink{
+  color: #ff00ff;
+}
+#text_color_cyan{
+  color: #00ffff;
+}
+#text_color_white{
+  color: #fff;
+}
+#text_color_black{
+  color: #000;
+}
+
+/*Dark Colors*/
+#text_color_dark_red{
+  color: #850000;
+}
+#text_color_dark_blue{
+  color: #0016bb;
+}
+#text_color_dark_green{
+  color: #108f21;
+}
+#text_color_dark_orange{
+  color: #c03b06;
+}
+#text_color_dark_purple{
+  color: #6f02d4;
+}
+
+/*Pastel Colors*/
+#text_color_pastel_red{
+  color: #fc9292;
+}
+#text_color_pastel_blue{
+  color: #a0c9ff;
+}
+#text_color_pastel_green{
+  color: #a0ffac;
+}
+#text_color_pastel_yellow{
+  color: #ffffb4;
+}
+#text_color_pastel_orange{
+  color: #f8c09b;
+}
+#text_color_pastel_purple{
+  color: #ddb5f8;
+}
+#text_color_pastel_pink{
+  color: #ffaeff;
+}
+#text_color_pastel_cyan{
+  color: #bfffff;
+}
+
+/*HighLight Colors*/
+
+/*Principal HighLight Colors*/
+#highlight_text_color_red{
+  background-color: #fc0606;
+}
+#highlight_text_color_blue{
+  background-color: #328bff;
+}
+#highlight_text_color_green{
+  background-color: #1dcf34;
+}
+#highlight_text_color_yellow{
+  background-color: #ffff00;
+}
+#highlight_text_color_orange{
+  background-color: #ff7112;
+}
+#highlight_text_color_purple{
+  background-color: #8201d8;
+}
+#highlight_text_color_pink{
+  background-color: #ff00ff;
+}
+#highlight_text_color_cyan{
+  background-color: #00ffff;
+}
+#highlight_text_color_white{
+  background-color: #fff;
+}
+#highlight_text_color_black{
+  background-color: #000;
+}
+
+/*Dark HighLight Colors*/
+#highlight_text_color_dark_red{
+  background-color: #850000;
+}
+#highlight_text_color_dark_blue{
+  background-color: #0016bb;
+}
+#highlight_text_color_dark_green{
+  background-color: #108f21;
+}
+#highlight_text_color_dark_orange{
+  background-color: #c03b06;
+}
+#highlight_text_color_dark_purple{
+  background-color: #6f02d4;
+}
+
+/*Pastel HighLight Colors*/
+#highlight_text_color_pastel_red{
+  background-color: #fc9292;
+}
+#highlight_text_color_pastel_blue{
+  background-color: #a0c9ff;
+}
+#highlight_text_color_pastel_green{
+  background-color: #a0ffac;
+}
+#highlight_text_color_pastel_yellow{
+  background-color: #ffffb4;
+}
+#highlight_text_color_pastel_orange{
+  background-color: #f8c09b;
+}
+#highlight_text_color_pastel_purple{
+  background-color: #ddb5f8;
+}
+#highlight_text_color_pastel_pink{
+  background-color: #ffaeff;
+}
+#highlight_text_color_pastel_cyan{
+  background-color: #bfffff;
+}
