@@ -2,230 +2,230 @@
 /*Text Colors*/
 
 /*Principal Colors*/
-#text_color_red{
+.text_color_red{
   color: #fc0606;
 }
-#text_color_blue{
+.text_color_blue{
   color: #328bff;
 }
-#text_color_green{
+.text_color_green{
   color: #1dcf34;
 }
-#text_color_yellow{
+.text_color_yellow{
   color: #ffff00;
 }
-#text_color_orange{
+.text_color_orange{
   color: #ff7112;
 }
-#text_color_purple{
+.text_color_purple{
   color: #8201d8;
 }
-#text_color_pink{
+.text_color_pink{
   color: #ff00ff;
 }
-#text_color_cyan{
+.text_color_cyan{
   color: #00ffff;
 }
-#text_color_white{
+.text_color_white{
   color: #fff;
 }
-#text_color_black{
+.text_color_black{
   color: #000;
 }
 
 /*Dark Colors*/
-#text_color_dark_red{
+.text_color_dark_red{
   color: #850000;
 }
-#text_color_dark_blue{
+.text_color_dark_blue{
   color: #0016bb;
 }
-#text_color_dark_green{
+.text_color_dark_green{
   color: #108f21;
 }
-#text_color_dark_orange{
+.text_color_dark_orange{
   color: #c03b06;
 }
-#text_color_dark_purple{
+.text_color_dark_purple{
   color: #6f02d4;
 }
 
 /*Pastel Colors*/
-#text_color_pastel_red{
+.text_color_pastel_red{
   color: #fc9292;
 }
-#text_color_pastel_blue{
+.text_color_pastel_blue{
   color: #a0c9ff;
 }
-#text_color_pastel_green{
+.text_color_pastel_green{
   color: #a0ffac;
 }
-#text_color_pastel_yellow{
+.text_color_pastel_yellow{
   color: #ffffb4;
 }
-#text_color_pastel_orange{
+.text_color_pastel_orange{
   color: #f8c09b;
 }
-#text_color_pastel_purple{
+.text_color_pastel_purple{
   color: #ddb5f8;
 }
-#text_color_pastel_pink{
+.text_color_pastel_pink{
   color: #ffaeff;
 }
-#text_color_pastel_cyan{
+.text_color_pastel_cyan{
   color: #bfffff;
 }
 
 /*HighLight Colors*/
 
 /*Principal HighLight Colors*/
-#highlight_text_color_red{
+.highlight_text_color_red{
   background-color: #fc0606;
 }
-#highlight_text_color_blue{
+.highlight_text_color_blue{
   background-color: #328bff;
 }
-#highlight_text_color_green{
+.highlight_text_color_green{
   background-color: #1dcf34;
 }
-#highlight_text_color_yellow{
+.highlight_text_color_yellow{
   background-color: #ffff00;
 }
-#highlight_text_color_orange{
+.highlight_text_color_orange{
   background-color: #ff7112;
 }
-#highlight_text_color_purple{
+.highlight_text_color_purple{
   background-color: #8201d8;
 }
-#highlight_text_color_pink{
+.highlight_text_color_pink{
   background-color: #ff00ff;
 }
-#highlight_text_color_cyan{
+.highlight_text_color_cyan{
   background-color: #00ffff;
 }
-#highlight_text_color_white{
+.highlight_text_color_white{
   background-color: #fff;
 }
-#highlight_text_color_black{
+.highlight_text_color_black{
   background-color: #000;
 }
 
 /*Dark HighLight Colors*/
-#highlight_text_color_dark_red{
+.highlight_text_color_dark_red{
   background-color: #850000;
 }
-#highlight_text_color_dark_blue{
+.highlight_text_color_dark_blue{
   background-color: #0016bb;
 }
-#highlight_text_color_dark_green{
+.highlight_text_color_dark_green{
   background-color: #108f21;
 }
-#highlight_text_color_dark_orange{
+.highlight_text_color_dark_orange{
   background-color: #c03b06;
 }
-#highlight_text_color_dark_purple{
+.highlight_text_color_dark_purple{
   background-color: #6f02d4;
 }
 
 /*Pastel HighLight Colors*/
-#highlight_text_color_pastel_red{
+.highlight_text_color_pastel_red{
   background-color: #fc9292;
 }
-#highlight_text_color_pastel_blue{
+.highlight_text_color_pastel_blue{
   background-color: #a0c9ff;
 }
-#highlight_text_color_pastel_green{
+.highlight_text_color_pastel_green{
   background-color: #a0ffac;
 }
-#highlight_text_color_pastel_yellow{
+.highlight_text_color_pastel_yellow{
   background-color: #ffffb4;
 }
-#highlight_text_color_pastel_orange{
+.highlight_text_color_pastel_orange{
   background-color: #f8c09b;
 }
-#highlight_text_color_pastel_purple{
+.highlight_text_color_pastel_purple{
   background-color: #ddb5f8;
 }
-#highlight_text_color_pastel_pink{
+.highlight_text_color_pastel_pink{
   background-color: #ffaeff;
 }
-#highlight_text_color_pastel_cyan{
+.highlight_text_color_pastel_cyan{
   background-color: #bfffff;
 }
 
 /*Glow Text Color*/
 
 /*Principal Glow Text Colors*/
-#glow_text_color_red{
+.glow_text_color_red{
   text-shadow: 0 0 10px #fc0606, 0 0 20px #fc0606, 0 0 30px #fc0606, 0 0 40px #fc0606, 0 0 50px #fc0606, 0 0 60px #fc0606, 0 0 70px #fc0606;
 }
-#glow_text_color_blue{
+.glow_text_color_blue{
   text-shadow: 0 0 10px #328bff, 0 0 20px #328bff, 0 0 30px #328bff, 0 0 40px #328bff, 0 0 50px #328bff, 0 0 60px #328bff, 0 0 70px #328bff;
 }
-#glow_text_color_green{
+.glow_text_color_green{
   text-shadow: 0 0 10px #1dcf34, 0 0 20px #1dcf34, 0 0 30px #1dcf34, 0 0 40px #1dcf34, 0 0 50px #1dcf34, 0 0 60px #1dcf34, 0 0 70px #1dcf34;
 }
-#glow_text_color_yellow{
+.glow_text_color_yellow{
   text-shadow: 0 0 10px #ffff00, 0 0 20px #ffff00, 0 0 30px #ffff00, 0 0 40px #ffff00, 0 0 50px #ffff00, 0 0 60px #ffff00, 0 0 70px #ffff00;
 }
-#glow_text_color_orange{
+.glow_text_color_orange{
   text-shadow: 0 0 10px #ff7112, 0 0 20px #ff7112, 0 0 30px #ff7112, 0 0 40px #ff7112, 0 0 50px #ff7112, 0 0 60px #ff7112, 0 0 70px #ff7112;
 }
-#glow_text_color_purple{
+.glow_text_color_purple{
   text-shadow: 0 0 10px #8201d8, 0 0 20px #8201d8, 0 0 30px #8201d8, 0 0 40px #8201d8, 0 0 50px #8201d8, 0 0 60px #8201d8, 0 0 70px #8201d8;
 }
-#glow_text_color_pink{
+.glow_text_color_pink{
   text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 50px #ff00ff, 0 0 60px #ff00ff, 0 0 70px #ff00ff;
 }
-#glow_text_color_cyan{
+.glow_text_color_cyan{
   text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 30px #00ffff, 0 0 40px #00ffff, 0 0 50px #00ffff, 0 0 60px #00ffff, 0 0 70px #00ffff;
 }
-#glow_text_color_white{
+.glow_text_color_white{
   text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
 }
-#glow_text_color_black{
+.glow_text_color_black{
   text-shadow: 0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #000, 0 0 50px #000, 0 0 60px #000, 0 0 70px #000;
 }
 
 /*Dark Glow Text Colors*/
-#glow_text_color_dark_red{
+.glow_text_color_dark_red{
   text-shadow: 0 0 10px #850000, 0 0 20px #850000, 0 0 30px #850000, 0 0 40px #850000, 0 0 50px #850000, 0 0 60px #850000, 0 0 70px #850000;
 }
-#glow_text_color_dark_blue{
+.glow_text_color_dark_blue{
   text-shadow: 0 0 10px #0016bb, 0 0 20px #0016bb, 0 0 30px #0016bb, 0 0 40px #0016bb, 0 0 50px #0016bb, 0 0 60px #0016bb, 0 0 70px #0016bb;
 }
-#glow_text_color_dark_green{
+.glow_text_color_dark_green{
   text-shadow: 0 0 10px #108f21, 0 0 20px #108f21, 0 0 30px #108f21, 0 0 40px #108f21, 0 0 50px #108f21, 0 0 60px #108f21, 0 0 70px #108f21;
 }
-#glow_text_color_dark_orange{
+.glow_text_color_dark_orange{
   text-shadow: 0 0 10px #c03b06, 0 0 20px #c03b06, 0 0 30px #c03b06, 0 0 40px #c03b06, 0 0 50px #c03b06, 0 0 60px #c03b06, 0 0 70px #c03b06;
 }
-#glow_text_color_dark_purple{
+.glow_text_color_dark_purple{
   text-shadow: 0 0 10px #6f02d4, 0 0 20px #6f02d4, 0 0 30px #6f02d4, 0 0 40px #6f02d4, 0 0 50px #6f02d4, 0 0 60px #6f02d4, 0 0 70px #6f02d4;
 }
 
 /*Pastel Glow Text Colors*/
-#glow_text_color_pastel_red{
+.glow_text_color_pastel_red{
   text-shadow: 0 0 10px #fc9292, 0 0 20px #fc9292, 0 0 30px #fc9292, 0 0 40px #fc9292, 0 0 50px #fc9292, 0 0 60px #fc9292, 0 0 70px #fc9292;
 }
-#glow_text_color_pastel_blue{
+.glow_text_color_pastel_blue{
   text-shadow: 0 0 10px #a0c9ff, 0 0 20px #a0c9ff, 0 0 30px #a0c9ff, 0 0 40px #a0c9ff, 0 0 50px #a0c9ff, 0 0 60px #a0c9ff, 0 0 70px #a0c9ff;
 }
-#glow_text_color_pastel_green{
+.glow_text_color_pastel_green{
   text-shadow: 0 0 10px #a0ffac, 0 0 20px #a0ffac, 0 0 30px #a0ffac, 0 0 40px #a0ffac, 0 0 50px #a0ffac, 0 0 60px #a0ffac, 0 0 70px #a0ffac;
 }
-#glow_text_color_pastel_yellow{
+.glow_text_color_pastel_yellow{
   text-shadow: 0 0 10px #ffffb4, 0 0 20px #ffffb4, 0 0 30px #ffffb4, 0 0 40px #ffffb4, 0 0 50px #ffffb4, 0 0 60px #ffffb4, 0 0 70px #ffffb4;
 }
-#glow_text_color_pastel_orange{
+.glow_text_color_pastel_orange{
   text-shadow: 0 0 10px #f8c09b, 0 0 20px #f8c09b, 0 0 30px #f8c09b, 0 0 40px #f8c09b, 0 0 50px #f8c09b, 0 0 60px #f8c09b, 0 0 70px #f8c09b;
 }
-#glow_text_color_pastel_purple{
+.glow_text_color_pastel_purple{
   text-shadow: 0 0 10px #ddb5f8, 0 0 20px #ddb5f8, 0 0 30px #ddb5f8, 0 0 40px #ddb5f8, 0 0 50px #ddb5f8, 0 0 60px #ddb5f8, 0 0 70px #ddb5f8;
 }
-#glow_text_color_pastel_pink{
+.glow_text_color_pastel_pink{
   text-shadow: 0 0 10px #ffaeff, 0 0 20px #ffaeff, 0 0 30px #ffaeff, 0 0 40px #ffaeff, 0 0 50px #ffaeff, 0 0 60px #ffaeff, 0 0 70px #ffaeff;
 }
-#glow_text_color_pastel_cyan{
+.glow_text_color_pastel_cyan{
   text-shadow: 0 0 10px #bfffff, 0 0 20px #bfffff, 0 0 30px #bfffff, 0 0 40px #bfffff, 0 0 50px #bfffff, 0 0 60px #bfffff, 0 0 70px #bfffff;
 }
