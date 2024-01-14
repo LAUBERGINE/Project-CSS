@@ -35,7 +35,7 @@
 
 /*Dark Colors*/
 .text_color_dark_red{
-  color: #850000;
+  color: #c40000;
 }
 .text_color_dark_blue{
   color: #0016bb;
@@ -112,7 +112,7 @@
 
 /*Dark HighLight Colors*/
 .highlight_text_color_dark_red{
-  background-color: #850000;
+  background-color: #c40000;
 }
 .highlight_text_color_dark_blue{
   background-color: #0016bb;
@@ -189,7 +189,7 @@
 
 /*Dark Glow Text Colors*/
 .glow_text_color_dark_red{
-  text-shadow: 0 0 10px #850000, 0 0 20px #850000, 0 0 30px #850000, 0 0 40px #850000, 0 0 50px #850000, 0 0 60px #850000, 0 0 70px #850000;
+  text-shadow: 0 0 10px #c40000, 0 0 20px #c40000, 0 0 30px #c40000, 0 0 40px #c40000, 0 0 50px #c40000, 0 0 60px #c40000, 0 0 70px #c40000;
 }
 .glow_text_color_dark_blue{
   text-shadow: 0 0 10px #0016bb, 0 0 20px #0016bb, 0 0 30px #0016bb, 0 0 40px #0016bb, 0 0 50px #0016bb, 0 0 60px #0016bb, 0 0 70px #0016bb;
@@ -266,7 +266,7 @@
 
 /*Dark Glow Box Colors*/
 .glow_box_color_dark_red{
-  box-shadow: 0 0 10px #850000, 0 0 20px #850000, 0 0 30px #850000, 0 0 40px #850000, 0 0 50px #850000, 0 0 60px #850000, 0 0 70px #850000;
+  box-shadow: 0 0 10px #c40000, 0 0 20px #c40000, 0 0 30px #c40000, 0 0 40px #c40000, 0 0 50px #c40000, 0 0 60px #c40000, 0 0 70px #c40000;
 }
 .glow_box_color_dark_blue{
   box-shadow: 0 0 10px #0016bb, 0 0 20px #0016bb, 0 0 30px #0016bb, 0 0 40px #0016bb, 0 0 50px #0016bb, 0 0 60px #0016bb, 0 0 70px #0016bb;
