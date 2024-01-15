@@ -1,3 +1,31 @@
+:root{
+  --red-color : #fc0606;
+  --blue-color : #328bff;
+  --green-color : #1dcf34;
+  --yellow-color : #ff0;
+  --orange-color : #ff7112;
+  --purple-color : #8201d8;
+  --pink-color : #f0f;
+  --cyan-color : #0ff;
+  --white-color : #fff;
+  --black-color : #000;
+  --dark-red-color : #c40000;
+  --dark-blue-color : #0016bb;
+  --dark-green-color : #108f21;
+  --dark-orange-color : #c03b06;
+  --dark-purple-color : #6f02d4;
+  --pastel-red-color : #fc9292;
+  --pastel-blue-color : #a0c9ff;
+  --pastel-green-color : #a0ffac;
+  --pastel-yellow-color : #ffffb4;
+  --pastel-orange-color : #f8c09b;
+  --pastel-purple-color : #ddb5f8;
+  --pastel-pink-color : #ffaeff;
+  --pastel-cyan-color : #bfffff;
+}
+
+
+
 
 /*Text Colors*/
 
@@ -306,3 +334,5 @@
 .glow_box_color_pastel_cyan{
   box-shadow: 0 0 10px #bfffff, 0 0 20px #bfffff, 0 0 30px #bfffff, 0 0 40px #bfffff, 0 0 50px #bfffff, 0 0 60px #bfffff, 0 0 70px #bfffff;
 }
+
+/**/
