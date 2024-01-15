@@ -1,3 +1,5 @@
+/*Color Index*/
+
 :root{
   --red-color : #fc0606;
   --blue-color : #328bff;
@@ -24,315 +26,312 @@
   --pastel-cyan-color : #bfffff;
 }
 
-
-
-
 /*Text Colors*/
 
 /*Principal Colors*/
 .text_color_red{
-  color: #fc0606;
+  color: var(--red-color);
 }
 .text_color_blue{
-  color: #328bff;
+  color: var(--blue-color);
 }
 .text_color_green{
-  color: #1dcf34;
+  color: var(--green-color);
 }
 .text_color_yellow{
-  color: #ff0;
+  color: var(--yellow-color);
 }
 .text_color_orange{
-  color: #ff7112;
+  color: var(--orange-color);
 }
 .text_color_purple{
-  color: #8201d8;
+  color: var(--purple-color);
 }
 .text_color_pink{
-  color: #f0f;
+  color: var(--pink-color);
 }
 .text_color_cyan{
-  color: #0ff;
+  color: var(--cyan-color);
 }
 .text_color_white{
-  color: #fff;
+  color: var(--white-color);
 }
 .text_color_black{
-  color: #000;
+  color: var(--black-color);
 }
 
 /*Dark Colors*/
 .text_color_dark_red{
-  color: #c40000;
+  color: var(--dark-red-color);
 }
 .text_color_dark_blue{
-  color: #0016bb;
+  color: var(--dark-blue-color);
 }
 .text_color_dark_green{
-  color: #108f21;
+  color: var(--dark-green-color);
 }
 .text_color_dark_orange{
-  color: #c03b06;
+  color: var(--dark-orange-color);
 }
 .text_color_dark_purple{
-  color: #6f02d4;
+  color: var(--dark-purple-color);
 }
 
 /*Pastel Colors*/
 .text_color_pastel_red{
-  color: #fc9292;
+  color: var(--pastel-red-color);
 }
 .text_color_pastel_blue{
-  color: #a0c9ff;
+  color: var(--pastel-blue-color);
 }
 .text_color_pastel_green{
-  color: #a0ffac;
+  color: var(--pastel-green-color);
 }
 .text_color_pastel_yellow{
-  color: #ffffb4;
+  color: var(--pastel-yellow-color);
 }
 .text_color_pastel_orange{
-  color: #f8c09b;
+  color: var(--pastel-orange-color);
 }
 .text_color_pastel_purple{
-  color: #ddb5f8;
+  color: var(--pastel-purple-color);
 }
 .text_color_pastel_pink{
-  color: #ffaeff;
+  color: var(--pastel-pink-color);
 }
 .text_color_pastel_cyan{
-  color: #bfffff;
+  color: var(--pastel-cyan-color);
 }
 
 /*HighLight Colors*/
 
 /*Principal HighLight Colors*/
 .highlight_text_color_red{
-  background-color: #fc0606;
+  background-color: var(--red-color);
 }
 .highlight_text_color_blue{
-  background-color: #328bff;
+  background-color: var(--blue-color);
 }
 .highlight_text_color_green{
-  background-color: #1dcf34;
+  background-color: var(--green-color);
 }
 .highlight_text_color_yellow{
-  background-color: #ff0;
+  background-color: var(--yellow-color);
 }
 .highlight_text_color_orange{
-  background-color: #ff7112;
+  background-color: var(--orange-color);
 }
 .highlight_text_color_purple{
-  background-color: #8201d8;
+  background-color: var(--purple-color);
 }
 .highlight_text_color_pink{
-  background-color: #f0f;
+  background-color: var(--pink-color);
 }
 .highlight_text_color_cyan{
-  background-color: #0ff;
+  background-color: var(--cyan-color);
 }
 .highlight_text_color_white{
-  background-color: #fff;
+  background-color: var(--white-color);
 }
 .highlight_text_color_black{
-  background-color: #000;
+  background-color: var(--black-color);
 }
 
 /*Dark HighLight Colors*/
 .highlight_text_color_dark_red{
-  background-color: #c40000;
+  background-color: var(--dark-red-color);
 }
 .highlight_text_color_dark_blue{
-  background-color: #0016bb;
+  background-color: var(--dark-blue-color);
 }
 .highlight_text_color_dark_green{
-  background-color: #108f21;
+  background-color: var(--dark-green-color);
 }
 .highlight_text_color_dark_orange{
-  background-color: #c03b06;
+  background-color: var(--dark-orange-color);
 }
 .highlight_text_color_dark_purple{
-  background-color: #6f02d4;
+  background-color: var(--dark-purple-color);
 }
 
 /*Pastel HighLight Colors*/
 .highlight_text_color_pastel_red{
-  background-color: #fc9292;
+  background-color: var(--pastel-red-color);
 }
 .highlight_text_color_pastel_blue{
-  background-color: #a0c9ff;
+  background-color: var(--pastel-blue-color);
 }
 .highlight_text_color_pastel_green{
-  background-color: #a0ffac;
+  background-color: var(--pastel-green-color);
 }
 .highlight_text_color_pastel_yellow{
-  background-color: #ffffb4;
+  background-color: var(--pastel-yellow-color);
 }
 .highlight_text_color_pastel_orange{
-  background-color: #f8c09b;
+  background-color: var(--pastel-orange-color);
 }
 .highlight_text_color_pastel_purple{
-  background-color: #ddb5f8;
+  background-color: var(--pastel-purple-color);
 }
 .highlight_text_color_pastel_pink{
-  background-color: #ffaeff;
+  background-color: var(--pastel-pink-color);
 }
 .highlight_text_color_pastel_cyan{
-  background-color: #bfffff;
+  background-color: var(--pastel-cyan-color);
 }
 
 /*Glow Text Color*/
 
 /*Principal Glow Text Colors*/
 .glow_text_color_red{
-  text-shadow: 0 0 10px #fc0606, 0 0 20px #fc0606, 0 0 30px #fc0606, 0 0 40px #fc0606, 0 0 50px #fc0606, 0 0 60px #fc0606, 0 0 70px #fc0606;
+  text-shadow: 0 0 10px var(--red-color), 0 0 20px var(--red-color), 0 0 30px var(--red-color), 0 0 40px var(--red-color), 0 0 50px var(--red-color), 0 0 60px var(--red-color), 0 0 70px var(--red-color);
 }
 .glow_text_color_blue{
-  text-shadow: 0 0 10px #328bff, 0 0 20px #328bff, 0 0 30px #328bff, 0 0 40px #328bff, 0 0 50px #328bff, 0 0 60px #328bff, 0 0 70px #328bff;
+  text-shadow: 0 0 10px var(--blue-color), 0 0 20px var(--blue-color), 0 0 30px var(--blue-color), 0 0 40px var(--blue-color), 0 0 50px var(--blue-color), 0 0 60px var(--blue-color), 0 0 70px var(--blue-color);
 }
 .glow_text_color_green{
-  text-shadow: 0 0 10px #1dcf34, 0 0 20px #1dcf34, 0 0 30px #1dcf34, 0 0 40px #1dcf34, 0 0 50px #1dcf34, 0 0 60px #1dcf34, 0 0 70px #1dcf34;
+  text-shadow: 0 0 10px var(--green-color), 0 0 20px var(--green-color), 0 0 30px var(--green-color), 0 0 40px var(--green-color), 0 0 50px var(--green-color), 0 0 60px var(--green-color), 0 0 70px var(--green-color);
 }
 .glow_text_color_yellow{
-  text-shadow: 0 0 10px #ff0, 0 0 20px #ff0, 0 0 30px #ff0, 0 0 40px #ff0, 0 0 50px #ff0, 0 0 60px #ff0, 0 0 70px #ff0;
+  text-shadow: 0 0 10px var(--yellow-color), 0 0 20px var(--yellow-color), 0 0 30px var(--yellow-color), 0 0 40px var(--yellow-color), 0 0 50px var(--yellow-color), 0 0 60px var(--yellow-color), 0 0 70px var(--yellow-color);
 }
 .glow_text_color_orange{
-  text-shadow: 0 0 10px #ff7112, 0 0 20px #ff7112, 0 0 30px #ff7112, 0 0 40px #ff7112, 0 0 50px #ff7112, 0 0 60px #ff7112, 0 0 70px #ff7112;
+  text-shadow: 0 0 10px var(--orange-color), 0 0 20px var(--orange-color), 0 0 30px var(--orange-color), 0 0 40px var(--orange-color), 0 0 50px var(--orange-color), 0 0 60px var(--orange-color), 0 0 70px var(--orange-color);
 }
 .glow_text_color_purple{
-  text-shadow: 0 0 10px #8201d8, 0 0 20px #8201d8, 0 0 30px #8201d8, 0 0 40px #8201d8, 0 0 50px #8201d8, 0 0 60px #8201d8, 0 0 70px #8201d8;
+  text-shadow: 0 0 10px var(--purple-color), 0 0 20px var(--purple-color), 0 0 30px var(--purple-color), 0 0 40px var(--purple-color), 0 0 50px var(--purple-color), 0 0 60px var(--purple-color), 0 0 70px var(--purple-color);
 }
 .glow_text_color_pink{
-  text-shadow: 0 0 10px #f0f, 0 0 20px #f0f, 0 0 30px #f0f, 0 0 40px #f0f, 0 0 50px #f0f, 0 0 60px #f0f, 0 0 70px #f0f;
+  text-shadow: 0 0 10px var(--pink-color), 0 0 20px var(--pink-color), 0 0 30px var(--pink-color), 0 0 40px var(--pink-color), 0 0 50px var(--pink-color), 0 0 60px var(--pink-color), 0 0 70px var(--pink-color);
 }
 .glow_text_color_cyan{
-  text-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff, 0 0 40px #0ff, 0 0 50px #0ff, 0 0 60px #0ff, 0 0 70px #0ff;
+  text-shadow: 0 0 10px var(--cyan-color), 0 0 20px var(--cyan-color), 0 0 30px var(--cyan-color), 0 0 40px var(--cyan-color), 0 0 50px var(--cyan-color), 0 0 60px var(--cyan-color), 0 0 70px var(--cyan-color);
 }
 .glow_text_color_white{
-  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+  text-shadow: 0 0 10px var(--white-color), 0 0 20px var(--white-color), 0 0 30px var(--white-color), 0 0 40px var(--white-color), 0 0 50px var(--white-color), 0 0 60px var(--white-color), 0 0 70px var(--white-color);
 }
 .glow_text_color_black{
-  text-shadow: 0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #000, 0 0 50px #000, 0 0 60px #000, 0 0 70px #000;
+  text-shadow: 0 0 10px var(--black-color), 0 0 20px var(--black-color), 0 0 30px var(--black-color), 0 0 40px var(--black-color), 0 0 50px var(--black-color), 0 0 60px var(--black-color), 0 0 70px var(--black-color);
 }
 
 /*Dark Glow Text Colors*/
 .glow_text_color_dark_red{
-  text-shadow: 0 0 10px #c40000, 0 0 20px #c40000, 0 0 30px #c40000, 0 0 40px #c40000, 0 0 50px #c40000, 0 0 60px #c40000, 0 0 70px #c40000;
+  text-shadow: 0 0 10px var(--dark-red-color), 0 0 20px var(--dark-red-color), 0 0 30px var(--dark-red-color), 0 0 40px var(--dark-red-color), 0 0 50px var(--dark-red-color), 0 0 60px var(--dark-red-color), 0 0 70px var(--dark-red-color);
 }
 .glow_text_color_dark_blue{
-  text-shadow: 0 0 10px #0016bb, 0 0 20px #0016bb, 0 0 30px #0016bb, 0 0 40px #0016bb, 0 0 50px #0016bb, 0 0 60px #0016bb, 0 0 70px #0016bb;
+  text-shadow: 0 0 10px var(--dark-blue-color), 0 0 20px var(--dark-blue-color), 0 0 30px var(--dark-blue-color), 0 0 40px var(--dark-blue-color), 0 0 50px var(--dark-blue-color), 0 0 60px var(--dark-blue-color), 0 0 70px var(--dark-blue-color);
 }
 .glow_text_color_dark_green{
-  text-shadow: 0 0 10px #108f21, 0 0 20px #108f21, 0 0 30px #108f21, 0 0 40px #108f21, 0 0 50px #108f21, 0 0 60px #108f21, 0 0 70px #108f21;
+  text-shadow: 0 0 10px var(--dark-green-color), 0 0 20px var(--dark-green-color), 0 0 30px var(--dark-green-color), 0 0 40px var(--dark-green-color), 0 0 50px var(--dark-green-color), 0 0 60px var(--dark-green-color), 0 0 70px var(--dark-green-color);
 }
 .glow_text_color_dark_orange{
-  text-shadow: 0 0 10px #c03b06, 0 0 20px #c03b06, 0 0 30px #c03b06, 0 0 40px #c03b06, 0 0 50px #c03b06, 0 0 60px #c03b06, 0 0 70px #c03b06;
+  text-shadow: 0 0 10px var(--dark-orange-color), 0 0 20px var(--dark-orange-color), 0 0 30px var(--dark-orange-color), 0 0 40px var(--dark-orange-color), 0 0 50px var(--dark-orange-color), 0 0 60px var(--dark-orange-color), 0 0 70px var(--dark-orange-color);
 }
 .glow_text_color_dark_purple{
-  text-shadow: 0 0 10px #6f02d4, 0 0 20px #6f02d4, 0 0 30px #6f02d4, 0 0 40px #6f02d4, 0 0 50px #6f02d4, 0 0 60px #6f02d4, 0 0 70px #6f02d4;
+  text-shadow: 0 0 10px var(--dark-purple-color), 0 0 20px var(--dark-purple-color), 0 0 30px var(--dark-purple-color), 0 0 40px var(--dark-purple-color), 0 0 50px var(--dark-purple-color), 0 0 60px var(--dark-purple-color), 0 0 70px var(--dark-purple-color);
 }
 
 /*Pastel Glow Text Colors*/
 .glow_text_color_pastel_red{
-  text-shadow: 0 0 10px #fc9292, 0 0 20px #fc9292, 0 0 30px #fc9292, 0 0 40px #fc9292, 0 0 50px #fc9292, 0 0 60px #fc9292, 0 0 70px #fc9292;
+  text-shadow: 0 0 10px var(--pastel-red-color), 0 0 20px var(--pastel-red-color), 0 0 30px var(--pastel-red-color), 0 0 40px var(--pastel-red-color), 0 0 50px var(--pastel-red-color), 0 0 60px var(--pastel-red-color), 0 0 70px var(--pastel-red-color);
 }
 .glow_text_color_pastel_blue{
-  text-shadow: 0 0 10px #a0c9ff, 0 0 20px #a0c9ff, 0 0 30px #a0c9ff, 0 0 40px #a0c9ff, 0 0 50px #a0c9ff, 0 0 60px #a0c9ff, 0 0 70px #a0c9ff;
+  text-shadow: 0 0 10px var(--pastel-blue-color), 0 0 20px var(--pastel-blue-color), 0 0 30px var(--pastel-blue-color), 0 0 40px var(--pastel-blue-color), 0 0 50px var(--pastel-blue-color), 0 0 60px var(--pastel-blue-color), 0 0 70px var(--pastel-blue-color);
 }
 .glow_text_color_pastel_green{
-  text-shadow: 0 0 10px #a0ffac, 0 0 20px #a0ffac, 0 0 30px #a0ffac, 0 0 40px #a0ffac, 0 0 50px #a0ffac, 0 0 60px #a0ffac, 0 0 70px #a0ffac;
+  text-shadow: 0 0 10px var(--pastel-green-color), 0 0 20px var(--pastel-green-color), 0 0 30px var(--pastel-green-color), 0 0 40px var(--pastel-green-color), 0 0 50px var(--pastel-green-color), 0 0 60px var(--pastel-green-color), 0 0 70px var(--pastel-green-color);
 }
 .glow_text_color_pastel_yellow{
-  text-shadow: 0 0 10px #ffffb4, 0 0 20px #ffffb4, 0 0 30px #ffffb4, 0 0 40px #ffffb4, 0 0 50px #ffffb4, 0 0 60px #ffffb4, 0 0 70px #ffffb4;
+  text-shadow: 0 0 10px var(--pastel-yellow-color), 0 0 20px var(--pastel-yellow-color), 0 0 30px var(--pastel-yellow-color), 0 0 40px var(--pastel-yellow-color), 0 0 50px var(--pastel-yellow-color), 0 0 60px var(--pastel-yellow-color), 0 0 70px var(--pastel-yellow-color);
 }
 .glow_text_color_pastel_orange{
-  text-shadow: 0 0 10px #f8c09b, 0 0 20px #f8c09b, 0 0 30px #f8c09b, 0 0 40px #f8c09b, 0 0 50px #f8c09b, 0 0 60px #f8c09b, 0 0 70px #f8c09b;
+  text-shadow: 0 0 10px var(--pastel-orange-color), 0 0 20px var(--pastel-orange-color), 0 0 30px var(--pastel-orange-color), 0 0 40px var(--pastel-orange-color), 0 0 50px var(--pastel-orange-color), 0 0 60px var(--pastel-orange-color), 0 0 70px var(--pastel-orange-color);
 }
 .glow_text_color_pastel_purple{
-  text-shadow: 0 0 10px #ddb5f8, 0 0 20px #ddb5f8, 0 0 30px #ddb5f8, 0 0 40px #ddb5f8, 0 0 50px #ddb5f8, 0 0 60px #ddb5f8, 0 0 70px #ddb5f8;
+  text-shadow: 0 0 10px var(--pastel-purple-color), 0 0 20px var(--pastel-purple-color), 0 0 30px var(--pastel-purple-color), 0 0 40px var(--pastel-purple-color), 0 0 50px var(--pastel-purple-color), 0 0 60px var(--pastel-purple-color), 0 0 70px var(--pastel-purple-color);
 }
 .glow_text_color_pastel_pink{
-  text-shadow: 0 0 10px #ffaeff, 0 0 20px #ffaeff, 0 0 30px #ffaeff, 0 0 40px #ffaeff, 0 0 50px #ffaeff, 0 0 60px #ffaeff, 0 0 70px #ffaeff;
+  text-shadow: 0 0 10px var(--pastel-pink-color), 0 0 20px var(--pastel-pink-color), 0 0 30px var(--pastel-pink-color), 0 0 40px var(--pastel-pink-color), 0 0 50px var(--pastel-pink-color), 0 0 60px var(--pastel-pink-color), 0 0 70px var(--pastel-pink-color);
 }
 .glow_text_color_pastel_cyan{
-  text-shadow: 0 0 10px #bfffff, 0 0 20px #bfffff, 0 0 30px #bfffff, 0 0 40px #bfffff, 0 0 50px #bfffff, 0 0 60px #bfffff, 0 0 70px #bfffff;
+  text-shadow: 0 0 10px var(--pastel-cyan-color), 0 0 20px var(--pastel-cyan-color), 0 0 30px var(--pastel-cyan-color), 0 0 40px var(--pastel-cyan-color), 0 0 50px var(--pastel-cyan-color), 0 0 60px var(--pastel-cyan-color), 0 0 70px var(--pastel-cyan-color);
 }
 
 /*Glow Box Color*/
 
 /*Principal Glow Box Colors*/
 .glow_box_color_red{
-  box-shadow: 0 0 10px #fc0606, 0 0 20px #fc0606, 0 0 30px #fc0606, 0 0 40px #fc0606, 0 0 50px #fc0606, 0 0 60px #fc0606, 0 0 70px #fc0606;
+  box-shadow: 0 0 10px var(--red-color), 0 0 20px var(--red-color), 0 0 30px var(--red-color), 0 0 40px var(--red-color), 0 0 50px var(--red-color), 0 0 60px var(--red-color), 0 0 70px var(--red-color);
 }
 .glow_box_color_blue{
-  box-shadow: 0 0 10px #328bff, 0 0 20px #328bff, 0 0 30px #328bff, 0 0 40px #328bff, 0 0 50px #328bff, 0 0 60px #328bff, 0 0 70px #328bff;
+  box-shadow: 0 0 10px var(--blue-color), 0 0 20px var(--blue-color), 0 0 30px var(--blue-color), 0 0 40px var(--blue-color), 0 0 50px var(--blue-color), 0 0 60px var(--blue-color), 0 0 70px var(--blue-color);
 }
 .glow_box_color_green{
-  box-shadow: 0 0 10px #1dcf34, 0 0 20px #1dcf34, 0 0 30px #1dcf34, 0 0 40px #1dcf34, 0 0 50px #1dcf34, 0 0 60px #1dcf34, 0 0 70px #1dcf34;
+  box-shadow: 0 0 10px var(--green-color), 0 0 20px var(--green-color), 0 0 30px var(--green-color), 0 0 40px var(--green-color), 0 0 50px var(--green-color), 0 0 60px var(--green-color), 0 0 70px var(--green-color);
 }
 .glow_box_color_yellow{
-  box-shadow: 0 0 10px #ff0, 0 0 20px #ff0, 0 0 30px #ff0, 0 0 40px #ff0, 0 0 50px #ff0, 0 0 60px #ff0, 0 0 70px #ff0;
+  box-shadow: 0 0 10px var(--yellow-color), 0 0 20px var(--yellow-color), 0 0 30px var(--yellow-color), 0 0 40px var(--yellow-color), 0 0 50px var(--yellow-color), 0 0 60px var(--yellow-color), 0 0 70px var(--yellow-color);
 }
 .glow_box_color_orange{
-  box-shadow: 0 0 10px #ff7112, 0 0 20px #ff7112, 0 0 30px #ff7112, 0 0 40px #ff7112, 0 0 50px #ff7112, 0 0 60px #ff7112, 0 0 70px #ff7112;
+  box-shadow: 0 0 10px var(--orange-color), 0 0 20px var(--orange-color), 0 0 30px var(--orange-color), 0 0 40px var(--orange-color), 0 0 50px var(--orange-color), 0 0 60px var(--orange-color), 0 0 70px var(--orange-color);
 }
 .glow_box_color_purple{
-  box-shadow: 0 0 10px #8201d8, 0 0 20px #8201d8, 0 0 30px #8201d8, 0 0 40px #8201d8, 0 0 50px #8201d8, 0 0 60px #8201d8, 0 0 70px #8201d8;
+  box-shadow: 0 0 10px var(--purple-color), 0 0 20px var(--purple-color), 0 0 30px var(--purple-color), 0 0 40px var(--purple-color), 0 0 50px var(--purple-color), 0 0 60px var(--purple-color), 0 0 70px var(--purple-color);
 }
 .glow_box_color_pink{
-  box-shadow: 0 0 10px #f0f, 0 0 20px #f0f, 0 0 30px #f0f, 0 0 40px #f0f, 0 0 50px #f0f, 0 0 60px #f0f, 0 0 70px #f0f;
+  box-shadow: 0 0 10px var(--pink-color), 0 0 20px var(--pink-color), 0 0 30px var(--pink-color), 0 0 40px var(--pink-color), 0 0 50px var(--pink-color), 0 0 60px var(--pink-color), 0 0 70px var(--pink-color);
 }
 .glow_box_color_cyan{
-  box-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 30px #0ff, 0 0 40px #0ff, 0 0 50px #0ff, 0 0 60px #0ff, 0 0 70px #0ff;
+  box-shadow: 0 0 10px var(--cyan-color), 0 0 20px var(--cyan-color), 0 0 30px var(--cyan-color), 0 0 40px var(--cyan-color), 0 0 50px var(--cyan-color), 0 0 60px var(--cyan-color), 0 0 70px var(--cyan-color);
 }
 .glow_box_color_white{
-  box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 50px #fff, 0 0 60px #fff, 0 0 70px #fff;
+  box-shadow: 0 0 10px var(--white-color), 0 0 20px var(--white-color), 0 0 30px var(--white-color), 0 0 40px var(--white-color), 0 0 50px var(--white-color), 0 0 60px var(--white-color), 0 0 70px var(--white-color);
 }
 .glow_box_color_black{
-  box-shadow: 0 0 10px #000, 0 0 20px #000, 0 0 30px #000, 0 0 40px #000, 0 0 50px #000, 0 0 60px #000, 0 0 70px #000;
+  box-shadow: 0 0 10px var(--black-color), 0 0 20px var(--black-color), 0 0 30px var(--black-color), 0 0 40px var(--black-color), 0 0 50px var(--black-color), 0 0 60px var(--black-color), 0 0 70px var(--black-color);
 }
 
 /*Dark Glow Box Colors*/
 .glow_box_color_dark_red{
-  box-shadow: 0 0 10px #c40000, 0 0 20px #c40000, 0 0 30px #c40000, 0 0 40px #c40000, 0 0 50px #c40000, 0 0 60px #c40000, 0 0 70px #c40000;
+  box-shadow: 0 0 10px var(--dark-red-color), 0 0 20px var(--dark-red-color), 0 0 30px var(--dark-red-color), 0 0 40px var(--dark-red-color), 0 0 50px var(--dark-red-color), 0 0 60px var(--dark-red-color), 0 0 70px var(--dark-red-color);
 }
 .glow_box_color_dark_blue{
-  box-shadow: 0 0 10px #0016bb, 0 0 20px #0016bb, 0 0 30px #0016bb, 0 0 40px #0016bb, 0 0 50px #0016bb, 0 0 60px #0016bb, 0 0 70px #0016bb;
+  box-shadow: 0 0 10px var(--dark-blue-color), 0 0 20px var(--dark-blue-color), 0 0 30px var(--dark-blue-color), 0 0 40px var(--dark-blue-color), 0 0 50px var(--dark-blue-color), 0 0 60px var(--dark-blue-color), 0 0 70px var(--dark-blue-color);
 }
 .glow_box_color_dark_green{
-  box-shadow: 0 0 10px #108f21, 0 0 20px #108f21, 0 0 30px #108f21, 0 0 40px #108f21, 0 0 50px #108f21, 0 0 60px #108f21, 0 0 70px #108f21;
+  box-shadow: 0 0 10px var(--dark-green-color), 0 0 20px var(--dark-green-color), 0 0 30px var(--dark-green-color), 0 0 40px var(--dark-green-color), 0 0 50px var(--dark-green-color), 0 0 60px var(--dark-green-color), 0 0 70px var(--dark-green-color);
 }
 .glow_box_color_dark_orange{
-  box-shadow: 0 0 10px #c03b06, 0 0 20px #c03b06, 0 0 30px #c03b06, 0 0 40px #c03b06, 0 0 50px #c03b06, 0 0 60px #c03b06, 0 0 70px #c03b06;
+  box-shadow: 0 0 10px var(--dark-orange-color), 0 0 20px var(--dark-orange-color), 0 0 30px var(--dark-orange-color), 0 0 40px var(--dark-orange-color), 0 0 50px var(--dark-orange-color), 0 0 60px var(--dark-orange-color), 0 0 70px var(--dark-orange-color);
 }
 .glow_box_color_dark_purple{
-  box-shadow: 0 0 10px #6f02d4, 0 0 20px #6f02d4, 0 0 30px #6f02d4, 0 0 40px #6f02d4, 0 0 50px #6f02d4, 0 0 60px #6f02d4, 0 0 70px #6f02d4;
+  box-shadow: 0 0 10px var(--dark-purple-color), 0 0 20px var(--dark-purple-color), 0 0 30px var(--dark-purple-color), 0 0 40px var(--dark-purple-color), 0 0 50px var(--dark-purple-color), 0 0 60px var(--dark-purple-color), 0 0 70px var(--dark-purple-color);
 }
 
 /*Pastel Glow Box Colors*/
 .glow_box_color_pastel_red{
-  box-shadow: 0 0 10px #fc9292, 0 0 20px #fc9292, 0 0 30px #fc9292, 0 0 40px #fc9292, 0 0 50px #fc9292, 0 0 60px #fc9292, 0 0 70px #fc9292;
+  box-shadow: 0 0 10px var(--pastel-red-color), 0 0 20px var(--pastel-red-color), 0 0 30px var(--pastel-red-color), 0 0 40px var(--pastel-red-color), 0 0 50px var(--pastel-red-color), 0 0 60px var(--pastel-red-color), 0 0 70px var(--pastel-red-color);
 }
 .glow_box_color_pastel_blue{
-  box-shadow: 0 0 10px #a0c9ff, 0 0 20px #a0c9ff, 0 0 30px #a0c9ff, 0 0 40px #a0c9ff, 0 0 50px #a0c9ff, 0 0 60px #a0c9ff, 0 0 70px #a0c9ff;
+  box-shadow: 0 0 10px var(--pastel-blue-color), 0 0 20px var(--pastel-blue-color), 0 0 30px var(--pastel-blue-color), 0 0 40px var(--pastel-blue-color), 0 0 50px var(--pastel-blue-color), 0 0 60px var(--pastel-blue-color), 0 0 70px var(--pastel-blue-color);
 }
 .glow_box_color_pastel_green{
-  box-shadow: 0 0 10px #a0ffac, 0 0 20px #a0ffac, 0 0 30px #a0ffac, 0 0 40px #a0ffac, 0 0 50px #a0ffac, 0 0 60px #a0ffac, 0 0 70px #a0ffac;
+  box-shadow: 0 0 10px var(--pastel-green-color), 0 0 20px var(--pastel-green-color), 0 0 30px var(--pastel-green-color), 0 0 40px var(--pastel-green-color), 0 0 50px var(--pastel-green-color), 0 0 60px var(--pastel-green-color), 0 0 70px var(--pastel-green-color);
 }
 .glow_box_color_pastel_yellow{
-  box-shadow: 0 0 10px #ffffb4, 0 0 20px #ffffb4, 0 0 30px #ffffb4, 0 0 40px #ffffb4, 0 0 50px #ffffb4, 0 0 60px #ffffb4, 0 0 70px #ffffb4;
+  box-shadow: 0 0 10px var(--pastel-yellow-color), 0 0 20px var(--pastel-yellow-color), 0 0 30px var(--pastel-yellow-color), 0 0 40px var(--pastel-yellow-color), 0 0 50px var(--pastel-yellow-color), 0 0 60px var(--pastel-yellow-color), 0 0 70px var(--pastel-yellow-color);
 }
 .glow_box_color_pastel_orange{
-  box-shadow: 0 0 10px #f8c09b, 0 0 20px #f8c09b, 0 0 30px #f8c09b, 0 0 40px #f8c09b, 0 0 50px #f8c09b, 0 0 60px #f8c09b, 0 0 70px #f8c09b;
+  box-shadow: 0 0 10px var(--pastel-orange-color), 0 0 20px var(--pastel-orange-color), 0 0 30px var(--pastel-orange-color), 0 0 40px var(--pastel-orange-color), 0 0 50px var(--pastel-orange-color), 0 0 60px var(--pastel-orange-color), 0 0 70px var(--pastel-orange-color);
 }
 .glow_box_color_pastel_purple{
-  box-shadow: 0 0 10px #ddb5f8, 0 0 20px #ddb5f8, 0 0 30px #ddb5f8, 0 0 40px #ddb5f8, 0 0 50px #ddb5f8, 0 0 60px #ddb5f8, 0 0 70px #ddb5f8;
+  box-shadow: 0 0 10px var(--pastel-purple-color), 0 0 20px var(--pastel-purple-color), 0 0 30px var(--pastel-purple-color), 0 0 40px var(--pastel-purple-color), 0 0 50px var(--pastel-purple-color), 0 0 60px var(--pastel-purple-color), 0 0 70px var(--pastel-purple-color);
 }
 .glow_box_color_pastel_pink{
-  box-shadow: 0 0 10px #ffaeff, 0 0 20px #ffaeff, 0 0 30px #ffaeff, 0 0 40px #ffaeff, 0 0 50px #ffaeff, 0 0 60px #ffaeff, 0 0 70px #ffaeff;
+  box-shadow: 0 0 10px var(--pastel-pink-color), 0 0 20px var(--pastel-pink-color), 0 0 30px var(--pastel-pink-color), 0 0 40px var(--pastel-pink-color), 0 0 50px var(--pastel-pink-color), 0 0 60px var(--pastel-pink-color), 0 0 70px var(--pastel-pink-color);
 }
 .glow_box_color_pastel_cyan{
-  box-shadow: 0 0 10px #bfffff, 0 0 20px #bfffff, 0 0 30px #bfffff, 0 0 40px #bfffff, 0 0 50px #bfffff, 0 0 60px #bfffff, 0 0 70px #bfffff;
+  box-shadow: 0 0 10px var(--pastel-cyan-color), 0 0 20px var(--pastel-cyan-color), 0 0 30px var(--pastel-cyan-color), 0 0 40px var(--pastel-cyan-color), 0 0 50px var(--pastel-cyan-color), 0 0 60px var(--pastel-cyan-color), 0 0 70px var(--pastel-cyan-color);
 }
 
 /**/
