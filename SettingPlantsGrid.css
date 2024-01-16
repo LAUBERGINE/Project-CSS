@@ -1,0 +1,8 @@
+.simple_column{
+    display: flex;
+    flex-direction: column;
+}
+.simple_column_reverse{
+    display: flex;
+    flex-direction: column-reverse;
+}
