@@ -11,11 +11,13 @@
   --cyan-color : #0ff;
   --white-color : #fff;
   --black-color : #000;
+  --gray-color : #8c8c8c;
   --dark-red-color : #c40000;
   --dark-blue-color : #0016bb;
   --dark-green-color : #108f21;
   --dark-orange-color : #c03b06;
   --dark-purple-color : #6f02d4;
+  --dark-gray-color : #272727 ;
   --pastel-red-color : #fc9292;
   --pastel-blue-color : #a0c9ff;
   --pastel-green-color : #a0ffac;
@@ -59,6 +61,9 @@
 .text_color_black{
   color: var(--black-color);
 }
+.text_color_gray{
+  color: var(--gray-color); 
+}
 
 /*Dark Colors*/
 .text_color_dark_red{
@@ -75,6 +80,9 @@
 }
 .text_color_dark_purple{
   color: var(--dark-purple-color);
+}
+.text_color_dark_gray{
+  color: var(--dark-gray-color);
 }
 
 /*Pastel Colors*/
@@ -136,6 +144,9 @@
 .highlight_text_color_black{
   background-color: var(--black-color);
 }
+.highlight_text_color_gray{
+  background-color: var(--gray-color);
+}
 
 /*Dark HighLight Colors*/
 .highlight_text_color_dark_red{
@@ -152,6 +163,9 @@
 }
 .highlight_text_color_dark_purple{
   background-color: var(--dark-purple-color);
+}
+.highlight_text_color_dark_gray{
+  background-color: var(--dark-gray-color);
 }
 
 /*Pastel HighLight Colors*/
@@ -213,6 +227,9 @@
 .glow_text_color_black{
   text-shadow: 0 0 10px var(--black-color), 0 0 20px var(--black-color), 0 0 30px var(--black-color), 0 0 40px var(--black-color), 0 0 50px var(--black-color), 0 0 60px var(--black-color), 0 0 70px var(--black-color);
 }
+.glow_text_color_gray{
+  text-shadow: 0 0 10px var(--gray-color), 0 0 20px var(--gray-color), 0 0 30px var(--gray-color), 0 0 40px var(--gray-color), 0 0 50px var(--gray-color), 0 0 60px var(--gray-color), 0 0 70px var(--gray-color);
+}
 
 /*Dark Glow Text Colors*/
 .glow_text_color_dark_red{
@@ -229,6 +246,9 @@
 }
 .glow_text_color_dark_purple{
   text-shadow: 0 0 10px var(--dark-purple-color), 0 0 20px var(--dark-purple-color), 0 0 30px var(--dark-purple-color), 0 0 40px var(--dark-purple-color), 0 0 50px var(--dark-purple-color), 0 0 60px var(--dark-purple-color), 0 0 70px var(--dark-purple-color);
+}
+.glow_text_color_dark_gray{
+  text-shadow: 0 0 10px var(--dark-gray-color), 0 0 20px var(--dark-gray-color), 0 0 30px var(--dark-gray-color), 0 0 40px var(--dark-gray-color), 0 0 50px var(--dark-gray-color), 0 0 60px var(--dark-gray-color), 0 0 70px var(--dark-gray-color);
 }
 
 /*Pastel Glow Text Colors*/
@@ -290,6 +310,9 @@
 .glow_box_color_black{
   box-shadow: 0 0 10px var(--black-color), 0 0 20px var(--black-color), 0 0 30px var(--black-color), 0 0 40px var(--black-color), 0 0 50px var(--black-color), 0 0 60px var(--black-color), 0 0 70px var(--black-color);
 }
+.glow_box_color_gray{
+  box-shadow: 0 0 10px var(--gray-color), 0 0 20px var(--gray-color), 0 0 30px var(--gray-color), 0 0 40px var(--gray-color), 0 0 50px var(--gray-color), 0 0 60px var(--gray-color), 0 0 70px var(--gray-color);
+}
 
 /*Dark Glow Box Colors*/
 .glow_box_color_dark_red{
@@ -306,6 +329,9 @@
 }
 .glow_box_color_dark_purple{
   box-shadow: 0 0 10px var(--dark-purple-color), 0 0 20px var(--dark-purple-color), 0 0 30px var(--dark-purple-color), 0 0 40px var(--dark-purple-color), 0 0 50px var(--dark-purple-color), 0 0 60px var(--dark-purple-color), 0 0 70px var(--dark-purple-color);
+}
+.glow_box_color_dark_gray{
+  box-shadow: 0 0 10px var(--dark-gray-color), 0 0 20px var(--dark-gray-color), 0 0 30px var(--dark-gray-color), 0 0 40px var(--dark-gray-color), 0 0 50px var(--dark-gray-color), 0 0 60px var(--dark-gray-color), 0 0 70px var(--dark-gray-color);
 }
 
 /*Pastel Glow Box Colors*/
